@@ -1,0 +1,2 @@
+I removed the packages names from all HelperClasses files and all DSCoinPackage files.
+Make sure to fix this error in the future when you find the correct solution for this.
